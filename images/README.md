@@ -95,10 +95,11 @@ Each folder contains learning images designed for beginners.
 
 ## Example
 
-<p align="center">
-<img src="chinese_images/greetings/word_nihao_hello.png" width="260">
-</p>
+<p align="left">
 
+<img src="test_nihao_hello.png" width="220">
+
+</p>
 
 Each folder contains learning images designed for beginners.
 
