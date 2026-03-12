@@ -4,16 +4,11 @@ This repository provides image resources for the book:
 
 Speak Chinese from Day One.
 
-<p align="center">
+<p align="left">
+    
 <img src="cover.jpg" width="220">
+
 </p>
-
-<h1 align="center">PinyinVision Chinese Learning Book</h1>
-
-<p align="center">
-Learn Chinese characters and pronunciation through visual recognition.
-</p>
-
 
 The images help beginners learn Chinese characters together with pinyin.
 
