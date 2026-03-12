@@ -83,8 +83,8 @@ Main content includes:
 • Chinese **initials (声母)**  
 • Chinese **finals (韵母)**  
 • Chinese **tones (声调)**
-• **Basic vocabulary images**  
-• **Character learning examples**
+• Chinese **Basic vocabulary images**  
+• Chinese **Character learning examples**
 
 These images help learners associate:
 
@@ -96,10 +96,10 @@ All images can be downloaded freely for learning.
 
 ## Folder Structure
 
--images/
---vowel/
---initial/
---words/
+-images
+--vowel
+--initial
+--words
 
 ## Usage
 
