@@ -86,7 +86,7 @@ All images are free to download for learning and educational use.
 
 <p align="left">
   
-<img src="folder structure.png" width="500">
+<img src="folder structure.png" width="700">
 
 </p>
 
