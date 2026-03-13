@@ -85,9 +85,6 @@ All images are free to download for learning and educational use.
 ## Folder Structure
 
 images/
-initials/
-finals/
-words/
 
 Each folder contains learning images designed for beginners.
 
