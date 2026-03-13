@@ -86,7 +86,7 @@ All images are free to download for learning and educational use.
 
 <p align="left">
   
-<img src="folder structure.png" width="260">
+<img src="folder structure.png" width="500">
 
 </p>
 
@@ -98,7 +98,7 @@ Each folder contains learning images designed for beginners.
 
 <p align="left">
 
-<img src="test_nihao_hello.png" width="220">
+<img src="test_nihao_hello.png" width="260">
 
 </p>
 
