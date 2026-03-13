@@ -1,3 +1,6 @@
+![GitHub stars](https://img.shields.io/github/stars/LinguaBloom/Book-Speak_Chinese_from_Day_One-Images)
+![License](https://img.shields.io/badge/license-educational-blue)
+
 # Speak Chinese from Day One  
 ### Visual Learning Resources for Chinese Beginners
 
@@ -17,13 +20,25 @@ The images are designed to help beginners quickly connect:
 
 ---
 
+## Project Repository
+
+View the project on GitHub:
+
+https://github.com/LinguaBloom/Book-Speak_Chinese_from_Day_One-Images
+
+---
+
 ## About This Project
 
 Chinese characters can feel intimidating at first.
 
 Instead of memorizing abstract symbols, this project helps learners **see characters, recognize them visually, and connect them to pronunciation and meaning**.
 
-These images are designed to work together with the **PinyinVision** learning approach.
+These images are designed to work together with the **PinyinVision learning approach**.
+
+The goal is to help beginners quickly build connections between:
+
+**Chinese Characters → Pinyin → Meaning**
 
 ---
 
