@@ -84,10 +84,11 @@ All images are free to download for learning and educational use.
 
 ## Folder Structure
 
-images/
-initials/
-finals/
-words/
+<p align="left">
+  
+<img src="folder structure.png" width="260">
+
+</p>
 
 Each folder contains learning images designed for beginners.
 
