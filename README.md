@@ -11,7 +11,9 @@ This repository provides image resources for the book:
 **Speak Chinese from Day One**
 
 <p align="left">
+  
 <img src="images/cover.jpg" width="220">
+
 </p>
 
 The images are designed to help beginners quickly connect:
@@ -99,7 +101,11 @@ All images are free to download for learning and educational use.
 
 ## Folder Structure
 
-images/
+<p align="left">
+  
+<img src="images/folder structure.png" width="700">
+
+</p>
 
 Each folder contains learning images designed for beginners.
 
