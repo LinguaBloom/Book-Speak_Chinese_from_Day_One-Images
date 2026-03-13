@@ -36,7 +36,7 @@ Chinese characters can feel intimidating at first.
 
 Instead of memorizing abstract symbols, this project helps learners **see characters, recognize them visually, and connect them to pronunciation and meaning**.
 
-These images are designed to work together with the **PinyinVision(App) learning approach**.
+These images are designed to work together with the **PinyinVision (iosApp:PinyinVision) learning approach**.
 
 The goal is to help beginners quickly build connections between:
 
